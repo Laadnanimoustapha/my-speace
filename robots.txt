@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laadnanimoustapha.github.io/my-speace/sitemap.xml
