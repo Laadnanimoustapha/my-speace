@@ -43,4 +43,4 @@ We stand in solidarity with Palestine. #FreePalestine #StandWithPalestine #Suppo
 [![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#) [![Stand With Palestine](https://img.shields.io/badge/Stand%20With-Palestine-007A3D?labelColor=000000&color=CE1126)](#)
 
 ## License
-No license specified. Add a LICENSE file if you want to define reuse terms (e.g., MIT).
+  MIT
