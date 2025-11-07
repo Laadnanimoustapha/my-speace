@@ -4,8 +4,8 @@
 
 A modern, animated personal portfolio built with HTML, CSS, and vanilla JavaScript. It showcases sections like Hero, About, Skills, Experience, Services, Projects, Testimonials, Blog, and Contact, with smooth interactions and a dark theme toggle.
 
-- **Live (if applicable)**: https://laadnanimoustapha.github.io/my-speace/
-- **Tech**: HTML5, CSS3, JavaScript (ES6), Font Awesome, Google Fonts
+- **Live (if applicable)**: https://my-speace.vercel.app/
+- **Tech**: NEXT.JS
 
 ## Features
 - **Polished UI**: Hero with animated code editor and floating shapes
